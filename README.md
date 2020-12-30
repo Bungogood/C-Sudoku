@@ -24,6 +24,6 @@ To check solutions:
 md5sum [filename]
 ```
 
-MD5: 
-easy.txt ```3cb465ef6077c4fcab5bd6ae3bc50d62``` 
+MD5:  
+easy.txt ```3cb465ef6077c4fcab5bd6ae3bc50d62```  
 hard.txt ```41704fd7d8fd0723a45ffbb2dbbfa488``` 
